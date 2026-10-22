@@ -1,0 +1,125 @@
+
+eff_1079_1_Skill3_down.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 4, 1602
+  size: 1165, 657
+  orig: 1165, 657
+  offset: 0, 0
+  index: -1
+BJJ
+  rotate: false
+  xy: 1173, 1301
+  size: 1165, 657
+  orig: 1165, 657
+  offset: 0, 0
+  index: -1
+Diban3d
+  rotate: false
+  xy: 4, 603
+  size: 1773, 694
+  orig: 1773, 694
+  offset: 0, 0
+  index: -1
+LIne_00000
+  rotate: false
+  xy: 2415, 3458
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00001
+  rotate: false
+  xy: 4, 3107
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00002
+  rotate: false
+  xy: 1047, 3107
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00003
+  rotate: false
+  xy: 2090, 3036
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00004
+  rotate: true
+  xy: 3458, 2837
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00005
+  rotate: false
+  xy: 4, 2685
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00006
+  rotate: false
+  xy: 1047, 2685
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00007
+  rotate: false
+  xy: 2090, 2614
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00008
+  rotate: false
+  xy: 4, 2263
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+LIne_00009
+  rotate: false
+  xy: 1047, 2263
+  size: 1039, 418
+  orig: 1039, 418
+  offset: 0, 0
+  index: -1
+line01
+  rotate: false
+  xy: 639, 3620
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tiankong1
+  rotate: false
+  xy: 2090, 1962
+  size: 1512, 648
+  orig: 1512, 648
+  offset: 0, 0
+  index: -1
+tiankong2
+  rotate: false
+  xy: 899, 3529
+  size: 1512, 347
+  orig: 1512, 347
+  offset: 0, 0
+  index: -1
+tiankong4
+  rotate: false
+  xy: 4, 3698
+  size: 631, 178
+  orig: 631, 178
+  offset: 0, 0
+  index: -1
